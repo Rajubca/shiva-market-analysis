@@ -1,6 +1,6 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]([https://jupyterlite.github.io/demo](https://rajubca.github.io/shiva-market-analysis/lab/index.html))
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
